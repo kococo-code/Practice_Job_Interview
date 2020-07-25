@@ -11,7 +11,7 @@ Collection Question and Practice
 - 가장 인상이 깊은 과목에 대해서 설명하시오.
 - 설계부터 배포까지 있는 프로그램에 대해서 설명하시오.
 - 가장 자신있는 언어는? 
-
+- 개발자로써 BuckitList가 있다면?
 
 ---
 ## Computer Science 
@@ -38,15 +38,28 @@ Collection Question and Practice
 -   Lexical Scope, Block Scope, Functional Scope에 대해서 설명하시오.
 -   JavaScript의 동작 방식에 대해서 설명하시오.
 -   SetTimeOut이 정확한 시간을 반환을 하는지? 
+-   EventLoop란?
 -   ProtoType 이란?
 -   ProtoType 상속은 어떤 과정을 통해 이루어지는지?
 -   == 이랑 === 의 차이점과 어느 연산자가 속도가 빠를지?
--   
+-   EventBubbling에 대해서 설명하시오. 그리고 왜 사용하는지에 대해서 설명하시오.
+-   Closure란 무엇이고 왜 사용하는지에 대해서 설명하시오.
+-   Babel에 대해서 설명하시오.
+-   WebPack을 사용해본적 있는지?
+
+
 
 ## Web
 ### HTML
 -   DOM이 브라우저에 작동하는 과정을 설명하시오.
 -   Virtual Dom에 대해서 설명하시오.
+-   사용자 인증방법 중에 Cookie와 Session, JWT에 대해서 설명하시오.
+
+### HTTP
+-   Restful이란?
+-   Contents-Type을 사용하는 이유?
+-   TCP와 HTTP의 차이는?
+
 ## FrameWork
 ### React JS
 -   ReactJS을 활용함에 있어서 부족한점은?
